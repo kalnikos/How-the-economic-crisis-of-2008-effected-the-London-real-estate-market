@@ -26,4 +26,7 @@ The chart show as a big decline in sold houses after 2008. In total, half of the
 
 ![sold_houses](https://user-images.githubusercontent.com/66875726/91079400-ac400080-e64c-11ea-96a5-f51d86119494.png)
 
+![months](https://user-images.githubusercontent.com/66875726/91080590-76038080-e64e-11ea-841f-b050fcb22df5.png)
+
+
 
