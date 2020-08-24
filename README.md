@@ -30,6 +30,7 @@ The chart show as a big decline in sold houses after 2008. In total, half of the
 
 ![prices](https://user-images.githubusercontent.com/66875726/91080661-98959980-e64e-11ea-9198-9cdb9b896684.png)
 
+## The distribution of the prices per area
 
 
 
