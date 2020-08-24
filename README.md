@@ -22,7 +22,7 @@ After reading the data I made some cleaning in order to manipulate them. I made 
 The chart show as a big decline in sold houses after 2008. In total, half of the houses were sold compared to the previews year.
 ![sold_houses_over the years](https://user-images.githubusercontent.com/66875726/91078294-1b1c5a00-e64b-11ea-9c81-79b305a82a8e.png)
 
-## Let’s see also the distribution of the sold houses prices over the years
+## Let’s see also the distribution of the sold houses prices over the years, the number of the sold houses and the level of the prices per mont 
 
 ![sold_houses](https://user-images.githubusercontent.com/66875726/91079400-ac400080-e64c-11ea-96a5-f51d86119494.png)
 
