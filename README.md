@@ -17,3 +17,9 @@ After reading the data I made some cleaning in order to manipulate them. I made 
 
 # EDA
 
+## Number of sold houses over the years
+
+The chart show as a big decline in sold houses after 2008.
+![sold_houses_over the years](https://user-images.githubusercontent.com/66875726/91078294-1b1c5a00-e64b-11ea-9c81-79b305a82a8e.png)
+
+
