@@ -1,4 +1,4 @@
-# How-the-economic-crisis-of-2008-effected-the-London-real-estate-market
+# How the London real estate market effected by the economic crisis of 2008
 By the summer of 2007, global financials markets had begun to show signs that the bill for a years long binge on cheap credit was coming due. Many big banks were ready to collapsed and the investors was warning that they might be not able to withdraw money back. 
 
 
