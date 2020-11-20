@@ -28,7 +28,7 @@ The chart below show a big reduce in sold houses after 2008. The houses were sol
 
 ![average_prices](https://user-images.githubusercontent.com/66875726/99805490-51cc1880-2b45-11eb-8c6b-bf3b8720e489.png)
 
-![months](https://user-images.githubusercontent.com/66875726/91080590-76038080-e64e-11ea-841f-b050fcb22df5.png)
+![months](https://user-images.githubusercontent.com/66875726/99807575-5f36d200-2b48-11eb-94cc-2dffd5be5e5c.png)
 
 ![prices](https://user-images.githubusercontent.com/66875726/91080661-98959980-e64e-11ea-9198-9cdb9b896684.png)
 
