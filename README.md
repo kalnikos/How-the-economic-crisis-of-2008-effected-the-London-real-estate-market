@@ -26,7 +26,7 @@ The chart below show a big reduce in sold houses after 2008. The houses were sol
 
 ## Let’s see also the distribution of the sold houses prices over the years, the number of the sold houses and the level of the prices per month 
 
-![sold_houses](https://user-images.githubusercontent.com/66875726/91079400-ac400080-e64c-11ea-96a5-f51d86119494.png)
+![average_prices](https://user-images.githubusercontent.com/66875726/99805490-51cc1880-2b45-11eb-8c6b-bf3b8720e489.png)
 
 ![months](https://user-images.githubusercontent.com/66875726/91080590-76038080-e64e-11ea-841f-b050fcb22df5.png)
 
