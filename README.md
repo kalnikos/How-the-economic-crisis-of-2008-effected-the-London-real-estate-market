@@ -19,7 +19,10 @@ After reading the data I made some cleaning in order to manipulate them. I made 
 
 ## Number of sold houses over the years
 
-The chart show as a big reduce in sold houses after 2008. In total, half of the houses were sold compared to the previews year.
+The chart below show a big reduce in sold houses after 2008. The houses were sold compared to the previews year were reduced by 50%.
+
+![sold_london_over](https://user-images.githubusercontent.com/66875726/99805167-c2266a00-2b44-11eb-9b3f-b12eedf296b1.png)
+
 
 ## Let’s see also the distribution of the sold houses prices over the years, the number of the sold houses and the level of the prices per month 
 
