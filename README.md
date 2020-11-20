@@ -32,9 +32,12 @@ The chart below show a big reduce in sold houses after 2008. The houses were sol
 
 ![av_months](https://user-images.githubusercontent.com/66875726/99807740-9c02c900-2b48-11eb-9111-cabf307eb428.png)
 
-## The distribution of the prices per area
+## The distribution of the prices per London area
 
 ![area](https://user-images.githubusercontent.com/66875726/99807907-d10f1b80-2b48-11eb-9da9-ded19e532c64.png)
+
+## The distribution of the prices in the five most expensive London area over the years
+
 
 In conclusion you can find in this exploratory data analysis, charts of the sold houses per area, a correlation matrix that show us the correlation between the features and a pivot table which present the sold houses and the average prices of the houses per year per area. 
 
