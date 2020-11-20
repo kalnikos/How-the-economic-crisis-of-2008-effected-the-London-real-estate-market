@@ -30,7 +30,7 @@ The chart below show a big reduce in sold houses after 2008. The houses were sol
 
 ![months](https://user-images.githubusercontent.com/66875726/99807575-5f36d200-2b48-11eb-94cc-2dffd5be5e5c.png)
 
-![prices](https://user-images.githubusercontent.com/66875726/91080661-98959980-e64e-11ea-9198-9cdb9b896684.png)
+![av_months](https://user-images.githubusercontent.com/66875726/99807740-9c02c900-2b48-11eb-9111-cabf307eb428.png)
 
 ## The distribution of the prices per area
 
