@@ -34,7 +34,7 @@ The chart below show a big reduce in sold houses after 2008. The houses were sol
 
 ## The distribution of the prices per area
 
-![area_distribution](https://user-images.githubusercontent.com/66875726/91081152-56208c80-e64f-11ea-8983-8ed5b53ce65b.png)
+![area](https://user-images.githubusercontent.com/66875726/99807907-d10f1b80-2b48-11eb-9da9-ded19e532c64.png)
 
 In conclusion you can find in this exploratory data analysis, charts of the sold houses per area, a correlation matrix that show us the correlation between the features and a pivot table which present the sold houses and the average prices of the houses per year per area. 
 
